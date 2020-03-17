@@ -12,6 +12,8 @@ Réussir à commander  les 2 moteurs moteurs pas à pas a l'aide de Laserweb.
 J'ai testé les moteurs individuellement et aucun problème n'as été détecté. 
 ### hypothèse 2  : le driver 
  Je suis actuellement en train de tester avec un autre driver.
-### hypothèse 3 
+ Les 2 drivers sont fonctionnel  
+### hypothèse 3 : le raccordement 
+Il est possible que le raccordement ne soit pas correct ou qu'un cable est défecteux 
 ### hypothèse 4   
 ### hypothèse 5  
